@@ -1,0 +1,103 @@
+const list = [
+    {
+      id: 1,
+      title: "Mcspicy chicken burger",
+      author: "McDonalds",
+      price: 189,
+      img: "https://5.imimg.com/data5/NH/WD/MY-33353830/mcspicy-chicken-burger-500x500.png",
+      amount: 1,
+    },
+    {
+      id: 2,
+      title: "Chicken tikka pizza",
+      author: "PizzaHut",
+      price: 198,
+      img: "https://theovenist.com/wp-content/uploads/2020/06/IMG_20200610_203927-1-scaled.jpg",
+      amount: 1,
+    },
+    {
+      id: 3,
+      title: "Paneer tikka masala",
+      author: "Haribavanam",
+      price: 143,
+      img: "https://thebigmansworld.com/wp-content/uploads/2023/01/paneer-tikka-masala-recipe.jpg",
+      amount: 1,
+    },
+    {
+      id: 4,
+      title: "Popcorn Chicken",
+      author: "KFC",
+      price: 157,
+      img: "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xs/D-K223.jpg?ver=28.9",
+      amount: 1,
+    },
+    {
+      id: 5,
+      title: "Chicken briyani",
+      author: "Star Briyani",
+      price: 249,
+      img: "https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-006.jpg",
+      amount: 1,
+    },
+    {
+      id: 6,
+      title: "Choco lava cake",
+      author: "OYALO",
+      price: 99,
+      img: "https://daddysbakery.in/wp-content/uploads/2019/01/Choco-Lava-Cake.jpg",
+      amount: 1,
+    },
+    {
+      id: 7,
+      title: "Oreo Milkshake",
+      author: "Keventers",
+      price: 159,
+      img: "https://www.bigbasket.com/media/uploads/p/l/800430554_1-keventers-gzb-milk-shake-chocolate-oreo.jpg",
+      amount: 1,
+    },
+  ];
+    /*
+    {
+      id: 8,
+      title: "Early Learning Library Pack 1",
+      author: "by Wonder House Books  | 6 December 2020",
+      price: 289,
+      img: "https://m.media-amazon.com/images/I/71xMttNhr7L._AC_UY327_FMwebp_QL65_.jpg",
+      amount: 1,
+    },
+    {
+      id: 9,
+      title: "Blossom Moral Story Book for Kids ",
+      author: "by Content Team at Target Publications",
+      price: 80,
+      img: "https://m.media-amazon.com/images/I/7122h3jWvEL._AC_UY327_FMwebp_QL65_.jpg",
+      amount: 1,
+    },
+    {
+      id: 10,
+      title: "Brain Activity Book for Kids",
+      author: "by Maple Press | 1 September 2021",
+      price: 86,
+      img: "https://m.media-amazon.com/images/I/7175YpTSa7L._AC_UY327_FMwebp_QL65_.jpg",
+      amount: 1,
+    },
+    {
+      id: 11,
+      title: "Willy the Silly Panda",
+      author: "by Rebecca Smith  | 14 December 2021",
+      price: 120,
+      img: "https://m.media-amazon.com/images/I/71-ocPGQIJL._AC_UY327_FMwebp_QL65_.jpg",
+      amount: 1,
+    },
+    {
+      id: 12,
+      title: "Grandma's Bag of Stories",
+      author: "by Sudha Murty | 1 January 2015",
+      price: 157,
+      img: "https://m.media-amazon.com/images/I/81jv44QdNwL._AC_UY327_FMwebp_QL65_.jpg",
+      amount: 1,
+    },
+];
+*/
+
+export default list;
