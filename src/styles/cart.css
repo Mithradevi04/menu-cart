@@ -6,6 +6,11 @@
 article{
     width: 60%;
     margin: auto;
+    background-color: aliceblue;
+    padding:4px;
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,0.1);
+    border-radius:15px;
+    margin-top:5px;
     
 }
 .cart_box img{
@@ -43,9 +48,9 @@ article{
     padding: 5px 10px;
     font-weight: bold;
     margin-right: 5px;
-    
+    background-color: rgb(231, 227, 206);
     border: 2px;
-    
+    background-color: rgb(231, 227, 206);
 }
 .cart_box div:nth-child(3) button{
     padding: 5px 10px;
